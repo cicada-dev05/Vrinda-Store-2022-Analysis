@@ -1,9 +1,9 @@
 Steps Followed:
-> Defining the question
-> Collecting the data
-> Cleaning the data
-> Analyzing the data
-> Summary.
+Defining the question
+Collecting the data
+Cleaning the data
+Analyzing the data
+Summary.
 
 
 OBSERVATION																																												
