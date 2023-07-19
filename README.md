@@ -14,3 +14,4 @@ OBSERVATION
 																						
 Summary:																						
 target women customers of age group of 30-49 yrs living in maharastra, Karnataka, and Uttar Pradesh For best profit.																						
+![image](https://github.com/cicada-dev05/Vrinda-Store-2022-Analysis/assets/72548837/a813018b-a083-492f-a1cc-97b1e25dbce6)
